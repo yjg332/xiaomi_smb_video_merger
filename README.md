@@ -39,7 +39,7 @@ pip install ffmpeg-python
 ## 使用方法
 
 1. 打开`smb_video_merger.py`文件，根据需要修改以下配置：
-如windows下：
+- 如windows下：
 \\10.10.10.2\xiaomisxt\xiaomi_camera_videos\607EA4901FA8
 ```python
 # SMB连接信息
